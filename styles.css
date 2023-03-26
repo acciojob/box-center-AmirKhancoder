@@ -1,1 +1,8 @@
 /*  your css code here. If applicable */
+.container{
+	background-color:rgb(173,216,229);
+	display: inline-block;
+	border: 2px solid black;
+	color: purple;
+	padding: 100px;
+}
